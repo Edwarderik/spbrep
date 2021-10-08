@@ -1,2 +1,2 @@
-# spbrep
-lab
+# ЛР №1 
+Работа с GitHub 
